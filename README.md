@@ -11,6 +11,9 @@ To begin users will see a page that does not display any tasks. Users can click 
 
 Users can add as many tasks as they want. Tasks with a reminder will have a green boarder, users can double click on the task if they would like to remove the reminder. Users can use the red X beside the task to delete task from list.
 
+<img width="750" alt=" Keep Track Web App Photo" src="https://user-images.githubusercontent.com/71097538/121957133-fe632700-cd2f-11eb-9be0-f07cb6549e1c.png">
+
+
 ### Design Decisions 
 
 There were a few design decisions that had to be made when creating this application. 
